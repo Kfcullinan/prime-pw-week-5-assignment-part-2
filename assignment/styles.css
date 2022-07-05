@@ -1,3 +1,21 @@
-h1 {
- color: pink;
+header {
+ background-color: darkolivegreen; 
+ text-align: center;
+ color: lightcoral;
+ 
+ 
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("record.png");
+    background-size: 250px;
+    font-family: "Impact";
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
 }
